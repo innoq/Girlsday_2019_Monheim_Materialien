@@ -81,7 +81,7 @@ Probier' es aus!
 Wenn du dir nicht sicher bist, wie dein Programm an einer kniffeligen Stelle verlaufen soll, hilft es Stift und Papier zur Hand zu nehmen und zu visualisieren:
 Mit einem Diagramm kannst du deine Gedanken ordnen und erst einmal zeichnerisch Ideen ausprobieren. Dabei soll das vorgestellte Flussdiagramm ein Vorschlag sein:
 **_<img von flussdiagramm>_**
-![Flussdiagramm](flussdiagramm.xml)
+![Flussdiagramm](flussdiagramm.png)
 
 An jeder Verzweigung stellst du gedanklich deine Frage.
 Dann formulierst du sie als Bedingung mittles Operatoren für dein Programm um.
